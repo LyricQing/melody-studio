@@ -19,3 +19,6 @@ coverage/
 # Local Netlify folder
 .netlify
 .netlify/
+
+# Local IDE artifacts
+.trae/
