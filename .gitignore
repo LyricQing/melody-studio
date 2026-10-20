@@ -1,0 +1,21 @@
+node_modules/
+.next/
+out/
+build/
+.vercel/
+.env
+.env.local
+.env.*.local
+*.log
+.DS_Store
+Thumbs.db
+playwright-report/
+test-results/
+coverage/
+
+*.tsbuildinfo
+.vercel
+
+# Local Netlify folder
+.netlify
+.netlify/
